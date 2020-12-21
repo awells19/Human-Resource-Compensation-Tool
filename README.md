@@ -1,2 +1,3 @@
 # Human-Resource-Compensaton-Tool
-Using raw data in Excel, I built a dashboard to help a Human Resources Team easily understand the combined performance of Account Executives at levels 1, 2, and 3. I implemented and executed the ability to identify performances by each job title and performances above or below a certain level.
+Using raw data in Excel, I built a dashboard to help a Human Resources Team easily understand Account Executives' combined performance at levels 1, 2, and 3. I implemented and executed the ability to identify performances by each job title and performances above or below a certain level. For the 2019 fiscal year, I created three strategies for the Human Resources department to optimize workforce planning to be in line with the company's $1B revenue goal. To obtain the goal, I executed my three different strategies with data analytics to predict the most successful outcome and to not only reach but surpass our goal of $1 B by $1,116,101,518. 
+
